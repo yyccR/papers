@@ -24,7 +24,7 @@ Below are some details about the papers in the project.
 
 - **DBSCAN**
 
-  The papers in DBSCAN folder are mainly about how to cut the GPS trajectory into moving or stay blocks.
+  The papers in DBSCAN folder are mainly about how to cut the GPS trajectory into moving or stay blocks. I implemented the DBSCAN algorithm and modified its search logistic so that the algorithm can search through time based points. Below are some result.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/1.png" width="183" height="96" />
 
@@ -42,7 +42,16 @@ Below are some details about the papers in the project.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/8.png" width="183" height="96" />
 
-  ​
+  - **interpolation**
 
+    The papers in interpolation folder are mainly about how to interpolate the latitude and longitude points, traditional interpolation seem only work on one-dimension data, so I implemented and modified piece-wise cubic bessel interpolation in two-dimension, below are the test result:
+
+    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/interpolation/piece-wise%20cubie%20bessel%20interpolation.png" width="314" height="192" />
+
+  - **spectral clustering**
+
+    The papers in spectral clustering folder are mainly about how to aggregate spatial data, when I implemented that algorithm, I found the computation become more and more slowly when the data size growing, further research has realized that it was mainly because of the Jacobi matrix update operation which help to calculate the eigenvector of a matrix. So if someone wants use it in his/her job, parallel the Jacobi update is one way to overcome that problem, below show some result to compare KMeans.
+
+    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="300" height="140" />
 
 
