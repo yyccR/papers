@@ -18,7 +18,13 @@ Below are some details about the papers in the project.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/%E4%B8%B2%E8%A1%8C%E8%AE%A1%E7%AE%97GA.gif" width="398" height="200" /><img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97GA.gif" width="398" height="200" />
 
-  ​
+  And the algorithm seems to work very well in TSPLIB which can be download from https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/ .
+
+  | Below I show some accuracy of the route planning using GA. |
+  | ---------------------------------------- |
+  |                                          |
+
+  <iframe src="http://m-dev.zuzuche.com/_zfc/TSP_view/route.html " width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
 
 - ​
 
