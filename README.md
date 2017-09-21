@@ -34,8 +34,6 @@ Below are some details about the papers in the project.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/4.png" width="145" height="75" />
 
-  ​
-
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/5.png" width="145" height="75" />
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/6.png" width="145" height="75" />
