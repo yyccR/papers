@@ -42,16 +42,15 @@ Below are some details about the papers in the project.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/8.png" width="183" height="96" />
 
-  - **interpolation**
+- **interpolation**
 
-    The papers in interpolation folder are mainly about how to interpolate the latitude and longitude points, traditional interpolation seem only work on one-dimension data, so I implemented and modified piece-wise cubic bessel interpolation in two-dimension, below are the test result:
+  The papers in interpolation folder are mainly about how to interpolate the latitude and longitude points, traditional interpolation seem only work on one-dimension data, so I implemented and modified piece-wise cubic bessel interpolation in two-dimension, below are the test result:
 
-    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/interpolation/piece-wise%20cubie%20bessel%20interpolation.png" width="314" height="192" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/interpolation/piece-wise%20cubie%20bessel%20interpolation.png" width="314" height="192" />
 
-  - **spectral clustering**
+- **spectral clustering**
 
-    The papers in spectral clustering folder are mainly about how to aggregate spatial data, when I implemented that algorithm, I found the computation become more and more slowly when the data size growing, further research has realized that it was mainly because of the Jacobi matrix update operation which help to calculate the eigenvector of a matrix. So if someone wants use it in his/her job, parallel the Jacobi update is one way to overcome that problem, below show some result to compare KMeans.
+  The papers in spectral clustering folder are mainly about how to aggregate spatial data, when I implemented that algorithm, I found the computation become more and more slowly when the data size growing, further research has realized that it was mainly because of the Jacobi matrix update operation which help to calculate the eigenvector of a matrix. So if someone wants use it in his/her job, parallel the Jacobi update is one way to overcome that problem, below show some result to compare KMeans.
 
-    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="800" height="400" />
-
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="800" height="400" />
 
