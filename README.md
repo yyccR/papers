@@ -26,21 +26,21 @@ Below are some details about the papers in the project.
 
   The papers in DBSCAN folder are mainly about how to cut the GPS trajectory into moving or stay blocks.
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/1.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/1.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/2.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/2.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/3.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/3.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/4.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/4.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/5.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/5.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/6.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/6.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/7.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/7.png" width="183" height="96" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/8.png" width="145" height="75" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/8.png" width="183" height="96" />
 
   ​
 
