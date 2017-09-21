@@ -52,6 +52,5 @@ Below are some details about the papers in the project.
 
     The papers in spectral clustering folder are mainly about how to aggregate spatial data, when I implemented that algorithm, I found the computation become more and more slowly when the data size growing, further research has realized that it was mainly because of the Jacobi matrix update operation which help to calculate the eigenvector of a matrix. So if someone wants use it in his/her job, parallel the Jacobi update is one way to overcome that problem, below show some result to compare KMeans.
 
-    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="300" height="140" />
-
+    <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="600" height="250" />
 
