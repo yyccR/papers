@@ -12,7 +12,11 @@ You can clone and share it with others, also if you have some other papers/docum
 
 Below are some details about the papers in the project.
 
-- **genetic algorithm**
+- **genetic algorithm** 
+
+  The papers in genetic algorithm(GA) folder are mainly about TSP, and it helps me to speed up the computation and improve the accuracy of route planning. For example I implemented the GA in parallel and it was three to four times faster, left bottom is normal computation and right bottom is parallel computation in my local machine, and when I put it on the server, I run 10 threads parallel to calculate, and it can help me plan 40 points in 1-2 seconds.
+
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/%E4%B8%B2%E8%A1%8C%E8%AE%A1%E7%AE%97GA.gif" style="zoom:48%" /><img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97GA.gif" style="zoom:48%" />
 
   ​
 
