@@ -20,7 +20,7 @@ Below are some details about the papers in the project.
 
   And the algorithm seems to work very well in TSPLIB which can be download from https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/ . Below I show some accuracy viewer of the route planning using GA.
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/44nocycle.gif" width="500" height="350" /><img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/42cycle.gif" width="500" height="350" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/44nocycle.gif" width="388" height="246" /><img src="https://raw.githubusercontent.com/yyccR/Pictures/master/geneticAlgorithm/42cycle.gif" width="388" height="246" />
 
 - ​
 
