@@ -54,3 +54,8 @@ Below are some details about the papers in the project.
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/spectralClustering/SCandKmeans.png" width="800" height="400" />
 
+- **HTM(Hierarchical Temporal Memory)**
+
+  The papers in HTM fouder are mainly about Hierarchical Temporal Memory algorithm which was designed to detect anomaly points from stream data. I useed the nupic framework to implement that algorithm, but as contributors keep submitting code, the project is update very fast, and if someone wants to use it to do something, keep moving with the community. Below show some anomaly detection.
+
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/HTM/1.gif" width="746" height="350" />
