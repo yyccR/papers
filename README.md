@@ -64,16 +64,16 @@ Below are some details about the papers in the project.
 
   The papers in CNNs fouder are mainly about Convolutional Neural Network included some famous network. I implement some of them in order to distinguish the crossroad pictures. You may curious why we need to do this? Because sometimes it's hard to recognize the crossroad just according to the road data which may contains road type, lng/lat and so on. Below shows some crossroad images, that's what we need to recognize when navigation.
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/1.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/1.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/2.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/2.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/3.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/3.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/4.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/4.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/5.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/5.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/6.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/6.png" width="183" height="183" />
 
-  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/7.png" width="183" height="96" />
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/CNN/7.png" width="183" height="183" />
