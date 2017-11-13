@@ -41,6 +41,10 @@ Below are some details about the papers in the project.
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/7.png" width="183" height="96" />
 
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/dbscan/8.png" width="183" height="96" />
+  
+  Moreover, if we collect the moving tracjectories of people, It must be a great thing, look at the following picture:
+  
+  <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/GPSTC/%E8%A1%80%E8%84%89%E4%BA%A4%E9%80%9A.gif" width="800" height="530" />
 
 - **interpolation**
 
