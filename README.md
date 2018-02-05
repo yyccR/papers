@@ -47,8 +47,9 @@ Below are some details about the papers in the project.
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/GPSTC/%E8%A1%80%E8%84%89%E4%BA%A4%E9%80%9A.gif" width="800" height="530" />
 
 - **trajectory similarity measures**
+
   The papers in *trajectory similarity measures* folder are mainly about how to get the most popular trajectory from a lot of tracjectories. Actually it was very challenging for me to do that from  a bunch of dirty data, because every trajectory  have different length, different density, different accuracy, and after trying many method, the DTW(dynamic time warping) algorithm seem to work well, so I implement it and belows are some result:
-  
+
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/trajectorySimilarityMeasures/%E5%8E%9F%E5%A7%8B%E8%BD%A8%E8%BF%B9.png" width="350" height="300" />
   <img src="https://raw.githubusercontent.com/yyccR/Pictures/master/trajectorySimilarityMeasures/%E7%83%AD%E5%BA%A6%E7%BA%BF.png" width="350" height="300" />
 
